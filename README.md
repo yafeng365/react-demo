@@ -16,6 +16,11 @@ nodejs、webstorm
 * npm create umi my-app  (my-app为项目名，生成路径按进入路径)
 * 这里的umi，是有版本区别的，是对应的类似maven的坐标，可以后续研究如何指定版本
 
+## 3、umi app template 
+* ant design pro是常用的，选这个就行。
+* simple app 实际上就是一个网页。
+
+
 # 碰到的问题
 * node的全局global文件设置
 * 环境变量的配置问题：可以webstorm指定管理员运行，或者配好全局的环境变量。
